@@ -39,7 +39,7 @@
     }
 
     footer:after {
-        content: '© 2019 - PerpusIndo [v0.99 Transisi] (Dark Mode v1.4 by N4O#8868)';
+        content: '© 2020 - PerpusIndo [v0.99 Transisi] (Dark Mode v1.4.1 by N4O#8868)';
     }
 
     /*
@@ -92,6 +92,11 @@
 
     button {
         color: #ccc;
+    }
+
+    code {
+        color: #ff7598;
+        background-color: #2b2b2b;
     }
 
     .btn.btn-default.btn-xs {
